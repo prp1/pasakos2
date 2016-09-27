@@ -1,0 +1,3 @@
+rootProject.name = 'pasakos2'
+
+include ':app'
